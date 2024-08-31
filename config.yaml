@@ -1,0 +1,4 @@
+device:
+  path: "/dev/ttyUSB0"
+  baudrate: 115200
+  radio_type: ezsp
